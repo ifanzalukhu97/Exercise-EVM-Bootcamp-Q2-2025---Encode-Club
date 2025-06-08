@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/DogCoin.sol": "Dogcoin"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/DogCoin.sol": {
+			"keccak256": "0xeb61de22f4aad5cd2bc511a66ab52a4c169403d13cd1f22f600ad002e8aa6bb9",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://038ee38160d9be572696cd91db68a84d07b3ccb10ab51fe714e2732ae55fa114",
+				"dweb:/ipfs/Qmb5EF864jKCVL1WhNaCveWjt8HvoiyD8yJ7vhLk3ruRZ8"
+			]
+		}
+	},
+	"version": 1
+}
